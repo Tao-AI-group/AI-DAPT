@@ -1,16 +1,4 @@
-'''
-specific_folder_name_list = ['Results_no_demo_no_event_all_time_180_6m_window', 'Results_no_demo_all_time_180_6m_window', 'Results_with_age_all_time_180_6m_window', 'Results_all_input_all_time_180_6m_window']
 
-['Results_no_demo_no_event_all_time_180_half_y_1y_window', 'Results_no_demo_all_time_180_half_y_1y_window', 'Results_with_age_all_time_180_half_y_1y_window', 'Results_all_input_all_time_180_half_y_1y_window']
-
- ['Results_no_demo_no_event_all_time_365_1y_2y_window', 'Results_no_demo_all_time_365_1y_2y_window', 'Results_with_age_all_time_365_1y_2y_window', 'Results_all_input_all_time_365_1y_2y_window']
-
-# lr_list = [0.00001, 0.00005, 0.0001, 0.0005, 0.001, 0.005, 0.01]
-# l2_list = [0.0001, 0.001, 0.01]
-
-# embed_dim_list = [32, 128, 256]
-# hidden_size_list = [32, 128, 256]
-'''
 
 ### Tools and Packages
 ##Basics
