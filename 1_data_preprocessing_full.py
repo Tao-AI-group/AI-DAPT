@@ -1,13 +1,3 @@
-'''
-
-merge getting case/control and splitting training/validation/test
-
-train/test/validation data:
-[pt_sk, 0-case/control, [[day gap compared with previous visit], [code index list]], [[], []], ... ]
-[124151893, 0, [ [[0], [91]], [[15], [91, 34, 56]], ...] ]
-
-'''
-
 import os, sys, re, csv
 import def_function as func
 from optparse import OptionParser
