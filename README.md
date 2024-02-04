@@ -5,7 +5,7 @@ In this project, we developed a dynamic AI-based approach, AI-DAPT, which predic
 Our pipeline comprises data pre-processing, model development and evaluation (model selection, hyperparameter tuning, cross-validation, calibration), and visualization.
 
 
-Acknowledgements Hat-tip to:
+### Acknowledgements Hat-tip to:
 
-pytorch_ehr (https://github.com/ZhiGroup/pytorch_ehr)
+* pytorch_ehr (https://github.com/ZhiGroup/pytorch_ehr)
 
