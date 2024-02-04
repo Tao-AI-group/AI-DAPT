@@ -6,5 +6,6 @@ Our pipeline comprises data pre-processing, model development and evaluation (mo
 
 
 Acknowledgements Hat-tip to:
+
 pytorch_ehr (https://github.com/ZhiGroup/pytorch_ehr)
 
